@@ -1,0 +1,22 @@
+2024-11-19 21:40:12.615 [info] Extension host with pid 1808 started
+2024-11-19 21:40:12.615 [info] Skipping acquiring lock for /home/cyclic/.config/Code - OSS/User/workspaceStorage/de045d141a8b035fd6afde5a0c3a97e9.
+2024-11-19 21:40:12.709 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-19 21:40:12.801 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-19 21:40:12.804 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2024-11-19 21:40:12.850 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-19 21:40:12.905 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-19 21:40:19.773 [info] Not activating extension 'franneck94.c-cpp-runner': Timed out while searching for 'workspaceContains' pattern *.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp,*.cu
+2024-11-19 21:40:19.774 [info] Eager extensions activated
+2024-11-19 21:40:19.796 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-19 21:40:19.806 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-19 21:40:19.819 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished', root cause: franneck94.vscode-c-cpp-config
+2024-11-19 21:40:19.842 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'
+2024-11-19 21:55:57.812 [info] ExtensionService#_doActivateExtension vscode.media-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+2024-11-19 21:56:50.120 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-19 21:56:50.133 [info] ExtensionService#_doActivateExtension vscode.markdown-language-features, startup: false, activationEvent: 'onLanguage:markdown'
+2024-11-19 21:56:50.471 [info] ExtensionService#_doActivateExtension vscode.markdown-math, startup: false, activationEvent: 'api', root cause: vscode.markdown-language-features
+2024-11-19 22:06:37.204 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-19 22:06:37.212 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-19 22:06:37.249 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2024-11-19 22:08:07.871 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2024-11-19 22:10:41.044 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'

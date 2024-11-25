@@ -1,0 +1,11 @@
+2024-11-20 15:52:18.255 [info] Started local extension host with pid 2111.
+2024-11-20 15:52:20.925 [info] [perf] Render performance baseline is 16ms
+2024-11-20 15:52:26.050 [info] Started local extension host with pid 2195.
+2024-11-20 15:52:28.133 [error] [File Watcher] Unexpected error: Permission denied (EUNKNOWN) (path: /)
+2024-11-20 15:52:28.138 [error] [File Watcher (universal)] Permission denied
+2024-11-20 15:52:28.788 [info] [perf] Render performance baseline is 29ms
+2024-11-20 16:34:30.226 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/cyclic/.wakatime/wakatime-cli-linux-amd64 --entity /home/cyclic/.config/kitty/kitty.conf --plugin "vscode/1.95.1 vscode-wakatime/24.7.2" --lineno 22 --cursorpos 1 --lines-in-file 88 --project-folder /
+
+2024-11-20 16:34:49.159 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/cyclic/.wakatime/wakatime-cli-linux-amd64 --entity /home/cyclic/.config/kitty/kitty.conf --plugin "vscode/1.95.1 vscode-wakatime/24.7.2" --lineno 22 --cursorpos 58 --lines-in-file 89 --project-folder / --write
+
+2024-11-20 16:39:04.380 [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/etc/sudo.conf' (NoPermissions (FileSystemError): Error: EACCES: permission denied, open '/etc/sudo.conf') file:///etc/sudo.conf

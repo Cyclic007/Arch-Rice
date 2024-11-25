@@ -1,0 +1,13 @@
+2024-11-19 20:46:24.167 [info] Extension host with pid 1482 started
+2024-11-19 20:46:24.167 [info] Skipping acquiring lock for /home/cyclic/.config/Code - OSS/User/workspaceStorage/de045d141a8b035fd6afde5a0c3a97e9.
+2024-11-19 20:46:24.335 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-11-19 20:46:24.499 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-11-19 20:46:24.503 [info] ExtensionService#_doActivateExtension WakaTime.vscode-wakatime, startup: true, activationEvent: '*'
+2024-11-19 20:46:24.609 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-11-19 20:46:24.761 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-11-19 20:46:31.449 [info] Not activating extension 'franneck94.c-cpp-runner': Timed out while searching for 'workspaceContains' pattern *.h,*.c,*.hh,*.cc,*.hxx,*.cxx,*.hpp,*.cpp,*.cu
+2024-11-19 20:46:31.450 [info] Eager extensions activated
+2024-11-19 20:46:31.474 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-11-19 20:46:31.479 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-11-19 20:46:31.497 [info] ExtensionService#_doActivateExtension vadimcn.vscode-lldb, startup: false, activationEvent: 'onStartupFinished', root cause: franneck94.vscode-c-cpp-config
+2024-11-19 20:46:31.530 [info] ExtensionService#_doActivateExtension franneck94.vscode-c-cpp-config, startup: false, activationEvent: 'onStartupFinished'

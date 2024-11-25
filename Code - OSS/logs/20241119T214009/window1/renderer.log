@@ -1,0 +1,26 @@
+2024-11-19 21:40:12.168 [info] Started local extension host with pid 1808.
+2024-11-19 21:40:14.279 [error] [File Watcher] Unexpected error: Permission denied (EUNKNOWN) (path: /)
+2024-11-19 21:40:14.285 [error] [File Watcher (universal)] Permission denied
+2024-11-19 21:40:15.012 [info] [perf] Render performance baseline is 63ms
+2024-11-19 22:10:36.054 [error] Error: Unable to move/copy '/home/cyclic/win10-style-waybar/waybar/style.css' because target '/home/cyclic/.config/waybar/style.css' already exists at destination.
+    at Pnt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:72648)
+    at async Pnt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:70907)
+    at async gBe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:527:8871)
+    at async qGe.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:7754)
+    at async XGe.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:12515)
+    at async QGe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:17736)
+    at async QGe.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:17452)
+    at async ZGe.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:19203)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2101:21797
+    at async r (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1257:10979)
+2024-11-19 22:10:36.055 [error] Unable to move/copy '/home/cyclic/win10-style-waybar/waybar/style.css' because target '/home/cyclic/.config/waybar/style.css' already exists at destination.: Error: Unable to move/copy '/home/cyclic/win10-style-waybar/waybar/style.css' because target '/home/cyclic/.config/waybar/style.css' already exists at destination.
+    at Pnt.Q (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:72648)
+    at async Pnt.M (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3088:70907)
+    at async gBe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:527:8871)
+    at async qGe.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:7754)
+    at async XGe.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:12515)
+    at async QGe.n (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:17736)
+    at async QGe.perform (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:17452)
+    at async ZGe.apply (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2103:19203)
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:2101:21797
+    at async r (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1257:10979)

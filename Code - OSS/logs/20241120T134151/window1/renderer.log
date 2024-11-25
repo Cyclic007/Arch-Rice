@@ -1,0 +1,4 @@
+2024-11-20 13:41:53.665 [info] Started local extension host with pid 1473.
+2024-11-20 13:41:56.531 [info] [perf] Render performance baseline is 84ms
+2024-11-20 13:41:56.989 [error] [File Watcher] Unexpected error: Permission denied (EUNKNOWN) (path: /)
+2024-11-20 13:41:56.993 [error] [File Watcher (universal)] Permission denied

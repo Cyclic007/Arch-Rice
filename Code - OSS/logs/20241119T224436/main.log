@@ -1,0 +1,4 @@
+2024-11-19 22:44:36.469 [info] update#setState disabled
+2024-11-19 22:44:36.469 [info] update#ctor - updates are disabled as there is no update URL
+2024-11-19 22:51:45.839 [info] Extension host with pid 1536 exited with code: 134, signal: unknown.
+2024-11-19 22:51:45.840 [error] [UtilityProcess id: 1, type: extensionHost, pid: 1536]: crashed with code 134 and reason 'crashed'

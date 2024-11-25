@@ -1,0 +1,47 @@
+2024-11-19 22:13:24.573 [info] [main] Log level: Info
+2024-11-19 22:13:24.573 [info] [main] Validating found git in: "git"
+2024-11-19 22:13:24.573 [info] [main] Using git "2.47.0" from "git"
+2024-11-19 22:13:24.573 [info] [Model][doInitialScan] Initial repository scan started
+2024-11-19 22:13:24.573 [info] > git rev-parse --show-toplevel [6ms]
+2024-11-19 22:13:24.573 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.584 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-19 22:13:24.584 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.587 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/lost+found': Error: EACCES: permission denied, scandir '/lost+found'
+2024-11-19 22:13:24.593 [warning] [Model][traverseWorkspaceFolder] Unable to read workspace folder '/root': Error: EACCES: permission denied, scandir '/root'
+2024-11-19 22:13:24.611 [info] > git rev-parse --show-toplevel [8ms]
+2024-11-19 22:13:24.611 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-19 22:13:24.619 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-19 22:13:24.619 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-19 22:13:24.631 [info] > git rev-parse --show-toplevel [5ms]
+2024-11-19 22:13:24.631 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.638 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-19 22:13:24.638 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.649 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-19 22:13:24.649 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.656 [info] > git rev-parse --show-toplevel [3ms]
+2024-11-19 22:13:24.656 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.664 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-19 22:13:24.664 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-19 22:13:24.670 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-19 22:13:24.670 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-19 22:13:24.679 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-19 22:13:24.679 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.686 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-19 22:13:24.686 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-19 22:13:24.695 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-19 22:13:24.695 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-11-19 22:13:24.702 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-19 22:13:24.702 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.710 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-19 22:13:24.710 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:13:24.711 [info] [Model][doInitialScan] Initial repository scan completed - repositories (0), closed repositories (0), parent repositories (0), unsafe repositories (0)
+2024-11-19 22:13:25.755 [info] > git rev-parse --show-toplevel [1ms]
+2024-11-19 22:13:25.755 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-11-19 22:14:35.358 [info] > git rev-parse --show-toplevel [2ms]
+2024-11-19 22:14:35.358 [info] fatal: not a git repository (or any of the parent directories): .git

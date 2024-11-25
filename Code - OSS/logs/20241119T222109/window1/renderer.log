@@ -1,0 +1,5 @@
+2024-11-19 22:21:11.859 [info] Started local extension host with pid 1484.
+2024-11-19 22:21:14.362 [error] [File Watcher] Unexpected error: Permission denied (EUNKNOWN) (path: /)
+2024-11-19 22:21:14.362 [error] [File Watcher (universal)] Permission denied
+2024-11-19 22:21:15.247 [info] [perf] Render performance baseline is 106ms
+2024-11-19 22:37:56.471 [info] [lifecycle]: Shutdown was prevented by final veto (id: veto.backups)

@@ -1,0 +1,10 @@
+2024-11-20 17:33:50.859 [info] Started local extension host with pid 2362.
+2024-11-20 17:33:53.090 [error] [File Watcher] Unexpected error: Permission denied (EUNKNOWN) (path: /)
+2024-11-20 17:33:53.090 [error] [File Watcher (universal)] Permission denied
+2024-11-20 17:33:53.645 [info] [perf] Render performance baseline is 32ms
+2024-11-20 17:34:06.717 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/cyclic/.wakatime/wakatime-cli-linux-amd64 --entity /home/cyclic/.config/hypr/hyprpaper.conf --plugin "vscode/1.95.1 vscode-wakatime/24.7.2" --lineno 3 --cursorpos 56 --lines-in-file 3 --project-folder /
+
+2024-11-20 17:34:06.988 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/cyclic/.wakatime/wakatime-cli-linux-amd64 --entity /home/cyclic/.config/hypr/hyprland.conf --plugin "vscode/1.95.1 vscode-wakatime/24.7.2" --lineno 34 --cursorpos 11 --lines-in-file 376 --project-folder /
+
+2024-11-20 17:34:23.129 [error] [Extension Host] [WakaTime][ERROR] Error: Command failed: /home/cyclic/.wakatime/wakatime-cli-linux-amd64 --entity /home/cyclic/.config/hypr/hyprland.conf --plugin "vscode/1.95.1 vscode-wakatime/24.7.2" --lineno 45 --cursorpos 19 --lines-in-file 376 --project-folder / --write
+

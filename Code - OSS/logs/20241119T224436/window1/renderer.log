@@ -1,0 +1,13 @@
+2024-11-19 22:44:38.586 [info] Started local extension host with pid 1536.
+2024-11-19 22:44:40.729 [error] [File Watcher] Unexpected error: Permission denied (EUNKNOWN) (path: /)
+2024-11-19 22:44:40.730 [error] [File Watcher (universal)] Permission denied
+2024-11-19 22:44:41.357 [info] [perf] Render performance baseline is 30ms
+2024-11-19 22:51:34.591 [info] Extension host (LocalProcess pid: 1536) is unresponsive.
+2024-11-19 22:51:45.875 [error] Extension host (LocalProcess pid: 1536) terminated unexpectedly. The following extensions were running: vscode.emmet, vscode.git-base, WakaTime.vscode-wakatime, vscode.git, vscode.github, vscode.debug-auto-launch, vscode.merge-conflict, vadimcn.vscode-lldb, franneck94.vscode-c-cpp-config
+2024-11-19 22:51:45.875 [info] Automatically restarting the extension host.
+2024-11-19 22:51:45.885 [error] Canceled: Error: Canceled
+    at y_i (vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:537:7259)
+    at vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3124:9591
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:3124:7904
+    at async vscode-file://vscode-app/usr/lib/code/out/vs/workbench/workbench.desktop.main.js:1941:18566
+2024-11-19 22:51:45.892 [info] Started local extension host with pid 2647.
